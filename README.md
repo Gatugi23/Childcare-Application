@@ -1,4 +1,4 @@
-# Childcare Application.
+# Childcare Application
 
 ## Overview
 The childcare application addresses the significant challenges within the current childcare system, including inefficient matching of parents with suitable providers, lack of standardized background checks, and the absence of a centralized platform for streamlined communication. By introducing a user-friendly platform that automates matching, incorporates secure background checks, and fosters transparent communication, this application significantly improves the overall childcare experience for both parents and providers.
